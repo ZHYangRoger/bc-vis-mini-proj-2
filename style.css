@@ -1,7 +1,9 @@
 .header{
     justify-content: center;
+    display: inline-block;
 }
 
 .under-line{
     box-shadow: 0px 1px #0000003d;
 }
+
